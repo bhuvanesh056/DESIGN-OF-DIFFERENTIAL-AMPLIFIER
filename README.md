@@ -42,9 +42,12 @@ Differential amplifier
 <img width="678" height="334" alt="image" src="https://github.com/user-attachments/assets/f8d817d8-aa4b-4308-8a1f-822567db04b3" />
 
 ## TABULATION:
+![WhatsApp Image 2025-11-21 at 08 24 34_8d32f867](https://github.com/user-attachments/assets/d8e16654-9da1-4ee5-a53b-9b55a57af0dc)
 
 
 ## GRAPH:
+![WhatsApp Image 2025-11-21 at 08 24 50_e77c04ce](https://github.com/user-attachments/assets/625b39e8-1d39-49d4-b45d-408b8e5740a3)
 
 
 ## RESULT:                   
+The designed inverting, non-inverting, and differential amplifier circuits successfully achieved the expected voltage gains and signal amplification as per theoretical values.
